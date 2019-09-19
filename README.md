@@ -8,7 +8,7 @@ It follows a series of methods and techniques for analysis, design, and evaluati
 
 # WinWork
 ### Here you can find more details about my project
-* [SLIDES PRESENTATION](https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html) 
-* [TESINA](https://www.st.com/en/ecosystems/x-nucleo-iks01a1.htmle) 
+* [SLIDES PRESENTATION](https://github.com/leonardouniromasalvucci/User_Centered_Design/blob/master/HCI_slides_presentation.pptx) 
+* [TESINA](https://github.com/leonardouniromasalvucci/User_Centered_Design/blob/master/HCI_tesina.pdf) 
 
 
