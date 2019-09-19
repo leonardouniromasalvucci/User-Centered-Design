@@ -9,6 +9,6 @@ It follows a series of methods and techniques for analysis, design, and evaluati
 # WinWork
 ### Here you can find more details about my project
 * [SLIDES PRESENTATION](https://github.com/leonardouniromasalvucci/User_Centered_Design/blob/master/HCI_slides_presentation.pptx) 
-* [DOCUMENTATION](https://github.com/leonardouniromasalvucci/User_Centered_Design/blob/master/HCI_tesina.pdf) 
+* [DOCUMENTATION](https://github.com/leonardouniromasalvucci/User_Centered_Design/blob/master/HCI_documentation.pdf) 
 
 
