@@ -1,4 +1,4 @@
-# User_Centered_Design
+# User Centered Design
 
 UCD is an approach to design that grounds the process in information about the people who will use the product. <br/>
 It follows a series of methods and techniques for analysis, design, and evaluation of software products. <br/>
