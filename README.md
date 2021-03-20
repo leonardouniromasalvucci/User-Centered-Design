@@ -2,7 +2,7 @@
 
 UCD is an approach to design that grounds the process in information about the people who will use the product. <br/>
 It follows a series of methods and techniques for analysis, design, and evaluation of software products. <br/>
-***The UCD process is iterative and focuses on users through all the life-cycle phases in order to realize usableproducts.***
+***The UCD process is iterative and focuses on users through all the life-cycle phases in order to realize usable products.***
 
 # WinWork
 ### Here you can find more details about my project
